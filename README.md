@@ -3,6 +3,8 @@
 
 	This AI model predicts if sonar signals are being bounced against a metal cylinder or a rock. Sixty attributes collected from each bounce determine the type of object being detected. Being able to determine the type of object helps marine vessels avoid collision with dangerous objects. Each attribute is saved as a floating point data. Label for the type of object is saved as ‘M’ (metal) ‘R’ (rock). Although this is a common problem that many other people have provided the solution for, in my model I use classes and methods from TensorFlow instead of writing train and fit models from scratch. I also use TensorFlow optimizer and loss functions instead of creating one myself. Use of classes and methods from TensorFlow make this model easy to follow and modify if needed. 
 
+ “Building AI course project”
+
 #Background:
 	As mentioned before this model solves the problem of protecting marine vessels from colliding with dangerous objects such as sea mines and explosives. It can be used for both defense and commercial marine activities. It will help safeguard trade and improve economic benefit in general. With ever increasing global trade between countries where most of the merchandise is moved via marine routes use of this model can become very frequent. I believe a more sophisticated model developed on same principles will be used very commonly by commercial vessels. Maritime transport is the backbone of international trade and the global economy. Over 80% of the volume of international trade in goods is carried by sea, and the percentage is even higher for most developing countries. This AI model ensures safe passage of maritime transport. 
 
